@@ -38,6 +38,10 @@ See the documentation if you are [having issues with the CLI](https://www.sanity
 
 Alternatively, you can also clone or fork [the GitHub template](https://github.com/nuotsu/sanitypress) to set up manually.
 
+```sh
+npm npm run dev
+```
+
 ### 2. Add content
 
 In your new Sanity Studio, publish the **required** `site` and `page` documents.
